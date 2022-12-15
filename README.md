@@ -35,13 +35,7 @@ yarn start
 
 ## Help
 
-Nothing that i noticed
-
-## Authors
-
-Contributors names and contact info
-
-@NelioAlves
+* Nothing that i noticed
 
 ## Version History
 
